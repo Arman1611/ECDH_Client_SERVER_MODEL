@@ -1,3 +1,5 @@
+Implementation of Elliptic Curve Diffie–Hellman Key Exchange for Server Client model. 
+
 Description of files:
 1. x25519.py - This file contains the standard library code for the x25519 ECC[Reference: https://datatracker.ietf.org/doc/html/rfc7748]
 2. Client.py - This file contains code for client side.
